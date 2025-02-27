@@ -53,4 +53,15 @@
   "engines": {
     "node": ">=16.14"
   }
+
+import {Address,Ton Client} from '@ton/ton';
+import {getHttpsEnd point } from "@orbs-orbs-network/Ton-Ton-access" }
+const walletAddress = Address.parse('UQDKb2nMq7FDjtN5NIJk2CNqJufnk1967LJlxlBpdLETDRWg');
+const collectionAddress = Address.parse('EQDk8N7xM5D669LC2YACrseBJtDyFqwtSPCNhRWXU7kjEptX');
+
+async function mine () {
+
+
 }
+
+mine();
